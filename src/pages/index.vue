@@ -2,12 +2,6 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
-        nuxt-firebase-githubactions
-      </h1>
-      <h2 class="subtitle">
-        My super-duper Nuxt.js project
-      </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
           Documentation
